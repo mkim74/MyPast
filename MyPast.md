@@ -23,9 +23,9 @@ layout: default
 
 *Learned how to speak English during preschool
 
-<img src="https://m.media-amazon.com/images/I/41VBV7gKpwL._AC_SY1000_.jpg"
-     alt="Vball"
-     style="float: right; margin-right: 50px;" 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/800px-Missouri_Tigers_logo.svg.png"
+     alt="Miz logo"
+     style="float: right; margin-right: 10px;" 
      width = "150"
      height = "150"/>
 
@@ -37,30 +37,7 @@ layout: default
 
 *Participated in a Volleyball clinic in the summer of 2016
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/800px-Missouri_Tigers_logo.svg.png"
-     alt="Miz logo"
-     style="float: right; margin-right: 10px;" 
-     width = "150"
-     height = "150"/>
-
 *Took my fist coding class during my Junior year
 
 *Made my decision to go to Mizzou on the last week of April, 2021 like the good procrastinater I am
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
