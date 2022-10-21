@@ -10,9 +10,9 @@ layout: default
 
 *I was born in Seoul, South Korea
 
-*Born on October 4th, 2002 @ 12:05 P.M
+*Born on October 4th, 2002 @ 12:05 P.M.
 
-*Went to ER in 2003 for crushing my lips (mark still exist today)
+*Went to ER in 2003 for crushing my lips (mark still exists today)
 
 *Moved to Dallas, Texas at age 2 
 
@@ -22,7 +22,14 @@ layout: default
 
 *Moved to St Louis, Missouri at age 8
 
-*Ran for a minor Rubik Cube competition in 2015
+*Competed for a Rubik Cube competition in 2015
+
+*Participated in a Volleyball clinic in the summer of 2016
+
+*Took my fist coding class during my Junior year
+
+*Made my decision to go to Mizzou on the last week of April, 2021
+
 
 
 
