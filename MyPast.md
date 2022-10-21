@@ -7,6 +7,9 @@ layout: default
 
 [Return to HOME](https://mkim74.github.io/AboutMe/)
 
+<img src="mizzou-450x384.png"
+     alt="Miz logo"
+     style="float: right; margin-right: 10px;" />
 
 *I was born in Seoul, South Korea
 
@@ -28,7 +31,8 @@ layout: default
 
 *Took my fist coding class during my Junior year
 
-*Made my decision to go to Mizzou on the last week of April, 2021
+*Made my decision to go to Mizzou on the last week of April, 2021 like the good procrastinater I am
+
 
 
 
