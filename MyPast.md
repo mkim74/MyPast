@@ -13,9 +13,7 @@ layout: default
      width = "150"
      height = "150"/>
 
-*I was born in Seoul, South Korea
-
-*Born on October 4th, 2002 @ 12:05 P.M.
+*I was born in Seoul, South Korea on October 4th, 2002
 
 *Went to ER in 2003 for crushing my lips (mark still exists today)
 
@@ -28,9 +26,7 @@ layout: default
      style="float: right; margin-right: 10px;" 
      width = "150"
      height = "150"/>
-
-*First dream was to become a firefighter 
-
+ 
 *Moved to St Louis, Missouri at age 8
 
 *Competed for a Rubik Cube competition in 2015
