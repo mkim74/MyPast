@@ -19,6 +19,12 @@ layout: default
      width = "100"
      height = "100"/>
 
+<img src="https://m.media-amazon.com/images/I/41VBV7gKpwL._AC_SY1000_.jpg"
+     alt="Vball"
+     style="float: right; margin-right: 50px;" 
+     width = "100"
+     height = "100"/>
+
 *I was born in Seoul, South Korea
 
 *Born on October 4th, 2002 @ 12:05 P.M.
