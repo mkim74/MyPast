@@ -7,7 +7,7 @@ layout: default
 
 [Return to HOME](https://mkim74.github.io/AboutMe/)
 
-<img src="mizzou-450x384.png"
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/800px-Missouri_Tigers_logo.svg.png"
      alt="Miz logo"
      style="float: right; margin-right: 10px;" />
 
