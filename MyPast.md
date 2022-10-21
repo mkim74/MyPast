@@ -9,7 +9,7 @@ layout: default
 
 
 I was born in Seoul, South Korea
-<div id="header" align="middle">
+<div id="header" align="bottom-right">
   <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" width="150"/><
 </div>
 
