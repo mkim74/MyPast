@@ -7,17 +7,23 @@ layout: default
 
 [Return to HOME](https://mkim74.github.io/AboutMe/)
 
-*I was born in Seoul, South Korea
-
 <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg"
      alt="Korean Flag"
      style="float: right; margin-right: 10px;" 
-     width = "100"
-     height = "100"/>
+     width = "150"
+     height = "150"/>
+
+*I was born in Seoul, South Korea
 
 *Born on October 4th, 2002 @ 12:05 P.M.
 
 *Went to ER in 2003 for crushing my lips (mark still exists today)
+
+<img src="https://m.media-amazon.com/images/I/41VBV7gKpwL._AC_SY1000_.jpg"
+     alt="Vball"
+     style="float: right; margin-right: 50px;" 
+     width = "150"
+     height = "150"/>
 
 *Moved to Dallas, Texas at age 2 
 
@@ -25,11 +31,11 @@ layout: default
 
 *First dream was to become a firefighter 
 
-<img src="https://m.media-amazon.com/images/I/41VBV7gKpwL._AC_SY1000_.jpg"
-     alt="Vball"
-     style="float: right; margin-right: 50px;" 
-     width = "100"
-     height = "100"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/800px-Missouri_Tigers_logo.svg.png"
+     alt="Miz logo"
+     style="float: right; margin-right: 10px;" 
+     width = "150"
+     height = "150"/>
 
 *Moved to St Louis, Missouri at age 8
 
@@ -41,11 +47,7 @@ layout: default
 
 *Made my decision to go to Mizzou on the last week of April, 2021 like the good procrastinater I am
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/800px-Missouri_Tigers_logo.svg.png"
-     alt="Miz logo"
-     style="float: right; margin-right: 10px;" 
-     width = "100"
-     height = "100"/>
+
 
 
 
