@@ -10,14 +10,14 @@ layout: default
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/800px-Missouri_Tigers_logo.svg.png"
      alt="Miz logo"
      style="float: right; margin-right: 10px;" 
-     width = "20"
-     height = "20"/>
+     width = "100"
+     height = "100"/>
 
 <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg"
      alt="Korean Flag"
      style="float: right; margin-right: 10px;" 
-     width = "20"
-     height = "20"/>
+     width = "100"
+     height = "100"/>
 
 *I was born in Seoul, South Korea
 
