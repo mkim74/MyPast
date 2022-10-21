@@ -25,17 +25,17 @@ layout: default
 
 *First dream was to become a firefighter 
 
-*Moved to St Louis, Missouri at age 8
-
-*Competed for a Rubik Cube competition in 2015
-
-*Participated in a Volleyball clinic in the summer of 2016
-
 <img src="https://m.media-amazon.com/images/I/41VBV7gKpwL._AC_SY1000_.jpg"
      alt="Vball"
      style="float: right; margin-right: 50px;" 
      width = "100"
      height = "100"/>
+
+*Moved to St Louis, Missouri at age 8
+
+*Competed for a Rubik Cube competition in 2015
+
+*Participated in a Volleyball clinic in the summer of 2016
 
 *Took my fist coding class during my Junior year
 
