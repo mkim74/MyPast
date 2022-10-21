@@ -12,9 +12,19 @@ layout: default
 
 *Born on October 4th, 2002 @ 12:05 P.M
 
-*Went to ER (2003)
+*Went to ER in 2003 for crushing my lips (mark still exist today)
 
-*Moved to Dallas, Texas at age 2 (2004)
+*Moved to Dallas, Texas at age 2 
+
+*Learned how to speak English during preschool
+
+*First dream was to become a firefighter 
+
+*Moved to St Louis, Missouri at age 8
+
+*Ran for a minor Rubik Cube competition in 2015
+
+
 
 
 
