@@ -11,7 +11,7 @@ layout: default
      alt="Korean Flag"
      style="float: right; margin-right: 10px;" 
      width = "150"
-     height = "150"/>
+     height = "120"/>
 
 *I was born in Seoul, South Korea on October 4th, 2002
 
