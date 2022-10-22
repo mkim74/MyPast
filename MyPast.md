@@ -25,7 +25,7 @@ layout: default
      alt="Miz logo"
      style="float: right; margin-right: 10px;" 
      width = "150"
-     height = "150"/>
+     height = "120"/>
  
 *Moved to St Louis, Missouri at age 8
 
